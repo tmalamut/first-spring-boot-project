@@ -45,3 +45,10 @@ target/**
 *.ear
 *.class
 
+### Other/Maven ###
+pom.xml
+mvnw
+*.cmd
+**/maven/
+
+
