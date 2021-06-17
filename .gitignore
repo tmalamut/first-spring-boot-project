@@ -49,6 +49,6 @@ target/**
 pom.xml
 mvnw
 *.cmd
-**/maven/
+**/.mvn/
 
 
