@@ -44,6 +44,7 @@ target/**
 *.war
 *.ear
 *.class
+*.log
 
 ### Other/Maven ###
 pom.xml.tag
